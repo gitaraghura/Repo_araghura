@@ -1,3 +1,6 @@
 Hi this is sample test of git
 
 appending line to existing
+
+
+third line
