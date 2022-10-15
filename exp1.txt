@@ -2,3 +2,8 @@ hi Raghuram 101 BZA
 
 
 Raju 501 BZA
+
+
+Added line for testing purpose
+Connect to instance Info
+Connect to your instance i-0a974be39a6a38dbf (testing_ec2) using any of these option
